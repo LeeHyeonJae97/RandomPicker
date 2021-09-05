@@ -1,2 +1,2 @@
-# Unity_RandomPicker
+# RandomPicker
 pick random elements from list
